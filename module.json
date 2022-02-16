@@ -191,6 +191,6 @@
     }	
   ],
   "url": "https://github.com/Popofxx/DnD5E-AideDD",
-  "manifest": "https://raw.githubusercontent.com/Popofxx/DnD5E-AideDD/main/module.json",
+  "manifest": "https://github.com/Popofxx/DnD5E-AideDD/blob/main/module.json",
   "download": "https://github.com/Popofxx/DnD5E-AideDD/archive/refs/heads/main.zip"
 }

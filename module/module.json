@@ -190,7 +190,7 @@
       "entity": "RollTable"
     }	
   ],
-  "url": "https://gitlab.com/sticklite13/en-francais-svp",
-  "manifest": "https://gitlab.com/sticklite13/en-francais-svp/-/raw/master/module/module.json",
-  "download": "https://gitlab.com/sticklite13/en-francais-svp/-/jobs/artifacts/v0.8/raw/en-francais-svp.zip?job=build"
+  "url": "https://github.com/Popofxx/DnD5E-AideDD",
+  "manifest": "https://github.com/Popofxx/DnD5E-AideDD/blob/main/module/module.json",
+  "download": "https://github.com/Popofxx/DnD5E-AideDD/archive/v0.0.0.1.zip"
 }
